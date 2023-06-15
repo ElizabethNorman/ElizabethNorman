@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElizabethNorman, you can find me on twitter as @spicedboi. Soon to a graduate of Computer Science from the University of Northern British Columbia. I love making bots, solving problems, doing crosswords, playing videogames and petting my cats. 
+- 👋 Hi, I’m @ElizabethNorman, you can find me on twitter as @spicedboi. Recent UNBC graduate with a BSc in Computer Science. I love making bots, solving problems, doing crosswords, playing videogames and petting my cats. 
 
 <!---
 ElizabethNorman/ElizabethNorman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
